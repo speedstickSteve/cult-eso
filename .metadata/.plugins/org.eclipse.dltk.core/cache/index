@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ASCII"?>
+<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="2" environment="org.eclipse.dltk.core.environment.localEnvironment">
+  <entries path="C:/Users/Steve/Documents/GitHub/cult-eso/cult.ui.eso/src/main.lua" timestamp="1394660945204" lastAccessTime="1394660946899"/>
+  <entries path="C:/Users/Steve/Documents/GitHub/cult-eso/cult.ui.eso/src" timestamp="1394660945203" lastAccessTime="1394660946899">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/2496772729/1.idx"/>
+  </entries>
+</cache:CacheIndex>
